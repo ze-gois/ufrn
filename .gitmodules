@@ -1,3 +1,6 @@
 [submodule "DIM0124"]
 	path = DIM0124
 	url = git@github.com:ze-gois/ufrn_DIM0124
+[submodule "DCA3505"]
+	path = DCA3505
+	url = git@github.com:ze-gois/ufrn_DCA3505
