@@ -4,3 +4,9 @@
 [submodule "DCA3505"]
 	path = DCA3505
 	url = git@github.com:ze-gois/ufrn_DCA3505
+[submodule "IMD0904"]
+	path = IMD0904
+	url = git@github.com:ze-gois/ufrn_IMD0904
+[submodule "IMD0246"]
+	path = IMD0246
+	url = git@github.com:ze-gois/ufrn_IMD0246
